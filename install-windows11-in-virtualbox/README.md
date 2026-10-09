@@ -50,39 +50,28 @@ Refer to the steps below:
 
 4. Click Next
 
-5. Set Password.
+5. Set Password. [Note: there should not be any spaces in Host Name text box.]
 
-6. Check Disk space and click OK
+<img width="1010" height="500" alt="image" src="https://github.com/user-attachments/assets/dfa741fc-7043-42ff-9dc0-88a6342acd44" />
 
-<img width="602" height="487" alt="image" src="https://github.com/user-attachments/assets/87fa26be-26a6-4f30-a503-6361103e3497" />
+6. Click Next
 
-7. Click Next
+7. Specify Virtual Hardware
 
-<img width="617" height="475" alt="image" src="https://github.com/user-attachments/assets/684de00a-1628-44e1-b12d-bb7f1885b5e1" />
+<img width="1008" height="496" alt="image" src="https://github.com/user-attachments/assets/ed3e1b42-c9f7-4b29-ab9c-78c439d6ce00" />
 
-8. Click Yes
+8. Click Next
 
-<img width="638" height="492" alt="image" src="https://github.com/user-attachments/assets/0ab83401-f01f-4c63-96f7-2c7ccfd2a149" />
+9. Click Finish
 
-9. Click Yes
+10. Wait for the installation to finish.
 
-<img width="621" height="492" alt="image" src="https://github.com/user-attachments/assets/69a8a9d8-9522-46be-9e5f-1ea269efec89" />
+<img width="1046" height="655" alt="image" src="https://github.com/user-attachments/assets/40beb01a-07ee-433a-8fce-d1f51a7628f8" />
 
-10. Click Next
+<img width="732" height="610" alt="image" src="https://github.com/user-attachments/assets/b2d0e6b2-fdf2-4618-ace9-9082a57a44ea" />
 
-<img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/c39bf347-31b0-4ef5-a730-23feaca342b9" />
+## Windows 11 has been successfully installed on VirtualBox
 
-11. Click Install
+<img width="1913" height="1075" alt="image" src="https://github.com/user-attachments/assets/56ac5e16-5bb8-4344-8ea3-d9a49ed7f37a" />
 
-<img width="603" height="482" alt="image" src="https://github.com/user-attachments/assets/c89ba27f-eb31-4683-b420-349d6e19a9c4" />
-
-12. Once the installation is complete, click Finish
-
-<img width="607" height="483" alt="image" src="https://github.com/user-attachments/assets/94b90765-5cc1-4387-8447-f371c3987d8e" />
-
-13. The VirtualBox Manager window will pop up.
-
-<img width="957" height="931" alt="image" src="https://github.com/user-attachments/assets/6507dc87-82dc-4e87-b9b2-e742be87126d" />
-
-## VirtualBox has now been successfully installed on your computer.
 
