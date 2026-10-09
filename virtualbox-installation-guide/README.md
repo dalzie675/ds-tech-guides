@@ -40,7 +40,8 @@ Refer to the steps below:
 <img width="621" height="492" alt="image" src="https://github.com/user-attachments/assets/69a8a9d8-9522-46be-9e5f-1ea269efec89" />
 10. Click Next
 <img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/c39bf347-31b0-4ef5-a730-23feaca342b9" />
-11. 
+11. Click Install
+<img width="603" height="482" alt="image" src="https://github.com/user-attachments/assets/c89ba27f-eb31-4683-b420-349d6e19a9c4" />
 12. 
 13. 
 14. 
