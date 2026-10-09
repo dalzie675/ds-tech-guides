@@ -38,7 +38,8 @@ Refer to the steps below:
 <img width="638" height="492" alt="image" src="https://github.com/user-attachments/assets/0ab83401-f01f-4c63-96f7-2c7ccfd2a149" />
 9. Click Yes
 <img width="621" height="492" alt="image" src="https://github.com/user-attachments/assets/69a8a9d8-9522-46be-9e5f-1ea269efec89" />
-10. 
+10. Click Next
+<img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/c39bf347-31b0-4ef5-a730-23feaca342b9" />
 11. 
 12. 
 13. 
