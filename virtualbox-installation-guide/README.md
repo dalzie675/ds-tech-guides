@@ -42,8 +42,9 @@ Refer to the steps below:
 <img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/c39bf347-31b0-4ef5-a730-23feaca342b9" />
 11. Click Install
 <img width="603" height="482" alt="image" src="https://github.com/user-attachments/assets/c89ba27f-eb31-4683-b420-349d6e19a9c4" />
-12. 
-13. 
-14. 
-15. 
-16. 
+12. Once the installation is complete, click Finish
+<img width="607" height="483" alt="image" src="https://github.com/user-attachments/assets/94b90765-5cc1-4387-8447-f371c3987d8e" />
+13. The VirtualBox Manager window will pop up.
+<img width="957" height="931" alt="image" src="https://github.com/user-attachments/assets/6507dc87-82dc-4e87-b9b2-e742be87126d" />
+
+#VirtualBox has now been successfully installed on your computer.
