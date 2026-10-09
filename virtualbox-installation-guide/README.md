@@ -1,4 +1,4 @@
-## VirtualBox Installation Guide
+## How to Install VirtualBox
 
 This guide shows step-by-step installation guide for installing VirtualBox on any machine.
 
